@@ -1,4 +1,4 @@
-busy-bee-oamp
-=============
+OpenOAMP
+========
 
-A busybox for OAMP functions (CLI, SNMP, Web, etc)
+A collection of OAMP libraries (CLI, SNMP, Web, etc) for managing devices.
