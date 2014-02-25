@@ -10,7 +10,7 @@ OpenOAMP C++ Libraries are:
   - SNMP
   - Web
   - TL1
-- Even though each methodology is quite different from each other they all manage the same services in the embedded device.
+- Ties into a common management model.
 - Makes use of [POCO C++ Library](https://github.com/embeddeddeveloper/poco) framework.
 
 This repository will use a the [successful branching model](http://nvie.com/posts/a-successful-git-branching-model/).
