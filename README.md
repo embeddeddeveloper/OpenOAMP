@@ -10,6 +10,7 @@ OpenOAMP C++ Libraries are:
   - SNMP
   - Web
   - TL1
+  - NetCONF
 - Ties into a common management model.
 - Makes use of [POCO C++ Library](https://github.com/embeddeddeveloper/poco) framework.
 
